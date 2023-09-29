@@ -1,0 +1,11 @@
+{
+    "name": "rieu/test-montant-frais",
+    "type": "library",
+    "license": "APSL-2.0",
+    "autoload": {
+        "psr-4": {
+            "Rieu\\TestMontantFrais\\": "src/"
+        }
+    },
+    "require": {}
+}
